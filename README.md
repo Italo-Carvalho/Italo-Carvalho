@@ -22,7 +22,7 @@ back-end projects
 
 - 💬 Talk to me about python 
 
-<h2> Skills <img src="https://camo.githubusercontent.com/c066184ef21cd4315d9287d73ef5f62fcf0dad2ef18b9faf07e73e3e153360fe/68747470733a2f2f6d65646961302e67697068792e636f6d2f6d656469612f4b444470634b6967626646706e656a5a73362f67697068792e6769663f6369643d65636630356534376f793666347a6a73386731716f6979737463353663753772397462386131666537366530356f7479267269643d67697068792e676966" width="50px" data-canonical-src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&amp;rid=giphy.gif" style="max-width:100%;width: 100px;margin-bottom: -35px;"> </h2>
+<h2> Skills </h2>
 <a href= https://github.com/Italo-Carvalho?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/Italo-Carvalho?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/Italo-Carvalho?tab=repositories&q=&type=&language=sqlite&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/sqlite.svg'> </a>
