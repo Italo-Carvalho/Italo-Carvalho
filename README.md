@@ -15,7 +15,7 @@
 - 🔭 I’m currently working on 
 personal projects
 
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently learning React
 
 - 👯 I’m looking to collaborate on 
 back-end projects 
