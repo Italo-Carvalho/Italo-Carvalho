@@ -1,6 +1,5 @@
-</p>
-<div size='20px'> Hi! My name is Ítalo Carvalho.
-</div>
+<h2 size='20px'> Hi! My name is Ítalo Carvalho.
+</h2>
 
 <h2> About Me </h2>
 
